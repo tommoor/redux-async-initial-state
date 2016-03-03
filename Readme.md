@@ -3,6 +3,10 @@ Redux Async Initial State
 
 Redux [middleware](http://redux.js.org/docs/advanced/Middleware.html) for async loading of initial app state.
 
+[![build status](https://img.shields.io/travis/KELiON/redux-async-initial-state/master.svg?style=flat-square)](https://travis-ci.org/KELiON/redux-async-initial-state)
+[![npm version](https://img.shields.io/npm/v/redux-async-initial-state.svg?style=flat-square)](https://www.npmjs.com/package/redux-async-initial-state)
+
+
 ```javascript
 npm install --save redux-async-initial-state
 ```
